@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: servicios-producto
+server:
+  port: 8080
